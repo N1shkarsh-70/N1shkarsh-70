@@ -19,6 +19,10 @@
 
 - 💬 Ask me about **C,C++,React,Python**
 
+-🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+
+-⚡ Fun fact: I love to attend Meetups for learning
+
 - 📫 How to reach me **Nishkarsh.7078@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
