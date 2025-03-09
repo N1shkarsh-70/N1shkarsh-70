@@ -18,10 +18,8 @@
 - 🌱 I’m currently learning **Data structure and Algorithm**
 
 - 💬 Ask me about **C,C++,React,Python**
-
--🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
-
--⚡ Fun fact: I love to attend Meetups for learning
+- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+- ⚡ Fun fact: I love to attend Meetups for learning 
 
 - 📫 How to reach me **Nishkarsh.7078@gmail.com**
 
