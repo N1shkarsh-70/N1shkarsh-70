@@ -9,9 +9,6 @@
 </h1>
 <h3 align="center">A learner from zero 😜</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1shkarsh-70&label=Profile%20views&color=0e75b6&style=flat" alt="n1shkarsh-70" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n1shkarsh-70" alt="n1shkarsh-70" /></a> </p>
 
 - 🔭 I’m currently working on **Dermatographia Urticaria**
 
