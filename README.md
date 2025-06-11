@@ -17,8 +17,8 @@
 - 🧠 Architecting intelligent systems that **learn, adapt, and scale**  
 - ⚙️ From **neural networks to React components**, I bridge **data-driven insights** with clean, efficient code 
 - 🔍 Exploring the edges of **AI, automation, and human-computer synergy**  
+- 🌐 Developing full-stack solutions—**smart models, seamless UI, and high-performance systems**
 - 📈 On a mission to **turn real-world complexity into elegant, deployable solutions**
-- ⚡ Fun fact: I love to attend Meetups for learning 
 
 - 📫 How to reach me **Nishkarsh.7078@gmail.com**
 
