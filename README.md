@@ -7,7 +7,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Nishkarsh...👋;AI/ML enthusiast;Full-Stack%20Web%20developer;UI/UX%20Designer;&font=Fira%20Code&center=true&vCenter=true&size=22&pause=1000&width=575&duration=4000"></a>
   </p>
 </h1>
-<h3 align="center">A learner from zero 😜</h3>
+<h3 align="center">Computer Science Graduate | AI/ML | Full-Stack | Data Science
+🧠 Architecting intelligent systems that learn, adapt, and scale.
+⚙️ From neural nets to React components, I bridge data-driven insights with clean, efficient code.
+🌐 Building end-to-end products—models that think, UIs that feel, and systems that perform.
+🔍 Exploring the edges of AI, automation, and human-computer synergy.
+📈 On a mission to turn real-world complexity into elegant, deployable solutions.
+
+</h3>
 
 
 - 🔭 I’m currently working on **Dermatographia Urticaria**
