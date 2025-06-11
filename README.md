@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Nishkarsh...👋;AI/ML enthusiast;Full-Stack%20Web%20developer;UI/UX%20Designer;&font=Fira%20Code&center=true&vCenter=true&size=22&pause=1000&width=575&duration=4000"></a>
   </p>
 </h1>
-# 👋 Hi there, I'm Nishkarsh
+<h1 align="center">👋 Hi there, I'm Nishkarsh</h1>
 
 🎓 **Computer Science Graduate**  
 🤖 **AI/ML | Full-Stack Development | Data Science**
